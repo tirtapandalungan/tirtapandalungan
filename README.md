@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 We are Perumdam Tirta Pandalungan Jember</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrayudha&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrayudha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtapandalungan&label=Profile%20views&color=0e75b6&style=flat" alt="tirtapandalungan" /> </p>
 
 <a href="https://www.github.com/tirtapandalungan" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/tirtapandalungan?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
